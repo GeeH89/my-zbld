@@ -14,3 +14,12 @@ www.test.de
 test.de
 cdn.asp.events
 an.yandex.ru
+fan2q.com
+globo-ab.globo.com
+horizon.globo.com
+horizon-track.globo.com
+scorecardresearch.com
+sedoparking.com
+super-plans.com
+upu.samsungelectronics.com
+xpu.samsungelectronics.com
